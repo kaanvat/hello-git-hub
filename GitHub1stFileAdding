@@ -6,6 +6,8 @@
 
 -Editing at SourceTree
 
--"Push" etmeden other local and remote spaces did not update
+-other local and remote spaces did not update
 
--"Push"ed
+-"Commit"ted but still no update on others 
+
+
